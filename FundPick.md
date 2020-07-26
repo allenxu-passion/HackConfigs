@@ -4,4 +4,4 @@
 //maxVersionCode，当force=1时，小于等于maxVersionCode的版本执行强制升级
 //url，最新app地址
 //data，基金数据
-hackfundpickstart{"enable":"0","update":{"curVersionCode":"1","force":"0","maxVersionCode":"0","url":"https:##raw.githubusercontent.com#allenxu-passion#HackConfigs#master#fundpick#app-test-3.apk"},"data":{"date":"20200724","url":"https:##github.com#allenxu-passion#FundPickData#archive#master.zip","subDir":"FundPickData-master"}}hackfundpickend
+hackfundpickstart{"enable":"1","update":{"curVersionCode":"1","force":"0","maxVersionCode":"0","url":"https:##raw.githubusercontent.com#allenxu-passion#HackConfigs#master#fundpick#app-test-3.apk"},"data":{"date":"20200724","url":"https:##github.com#allenxu-passion#FundPickData#archive#master.zip","subDir":"FundPickData-master"}}hackfundpickend
